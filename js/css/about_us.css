@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #e8cfc4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container {
+    background-color: #f4d7c3;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 800px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    color: #e74c3c;
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+p {
+    color: #5a4a42;
+    font-size: 1.1em;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}

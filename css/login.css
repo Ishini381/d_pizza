@@ -1,0 +1,75 @@
+body {
+    background-color: #1a1a1a;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.container2 {
+    background-color: #1a1a1a;
+    color: #fff;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.container2 msg
+{
+    color: red;
+    font-size: 18px;
+}
+.container2 h1 {
+    color: #ff0000;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+.input-group {
+    margin-bottom: 20px;
+}
+.input-group input {
+    width: 300px;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    font-size: 14px;
+}
+.button-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.button-group button {
+    width: 300px;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    font-size: 14px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.button-group .guest {
+    background-color: #008000;
+    color: #fff;
+}
+.button-group .account {
+    background-color: #ffcc00;
+    color: #000;
+}
+.button-group .diamond {
+    background-color: #ff0000;
+    color: #fff;
+}
+.button-group .google {
+    background-color: #ff0000;
+    color: #fff;
+}
+.button-group .icon {
+    margin-right: 10px;
+}
+
+.container2 form p{
+    font-size: 15px;
+    margin-top: 8px;
+}
